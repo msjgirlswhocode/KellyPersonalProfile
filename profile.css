@@ -1,0 +1,19 @@
+body {
+  font-family: courier;
+  background-image: url("lofiback.jpg");
+  background-size: cover;
+}
+
+.maincontainer{
+  /*background-color: blue;*/
+  padding: 30px;
+  justify-content: center;
+}
+
+h1 {
+    color: white;
+}
+
+#color {
+  color: red;
+}
